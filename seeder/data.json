@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 0,
+        "name": "Turkey Chow Mein",
+        "description": "1.5 oz diced turkey, ½ c steamed brown rice",
+        "price": "100",
+        "image": "https://images.unsplash.com/photo-1530334044505-5b3aa24cb147?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2669&q=80"
+    },
+    {
+        "id" : 1,
+        "name": "Chef Salad with Grilled Chicken Strips",
+        "description": "(1 oz) (1 c romaine, 0.5 oz LF mozzarella cheese) with WW Soft Pretzel Sticks (2 oz)",
+        "price": "149",
+        "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+        "id" : 2,
+        "name": "Chicken Quesadilla",
+        "description": "(2 tortillas, 1 oz chicken, ¼ c RF shredded cheese, 1 T salsa)",
+        "price": "55",
+        "image": "https://images.unsplash.com/photo-1606350383072-4b031d6bd834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+        "id" : 3,
+        "name": "Spaghetti Noodles",
+        "description": "(½ c) with Meat Sauce (½ c) or Marinara Sauce (½ c)",
+        "price": "85",
+        "image": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80"
+    }
+]
